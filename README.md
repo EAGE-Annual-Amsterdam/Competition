@@ -43,3 +43,39 @@ Details of Competition for both First Break Picking & Horizon Picking tasks are 
  - ### [Horizon picking](./HP/)
 
 	In this task, we want to determine a set of distinctly visible boundaries on seismic data: they are called horizons, and denote the drastic change in rock properties underneath.
+
+## Competition Results
+
+| Team Name | Company | First Break Picking || Horizon Picking ||Submission type|
+|-----------|---------|:---------:|:-------:|:---------:|:-------:|:-------:|
+|||Score|Time|Score|Time|
+|Seven|[University of Science and Technology of China](https://www.ustc.edu.cn/)|DNS|DNS|0.969|17h 20m|File|
+|ITMOscow|[Aramco Innovations](aramco.com)|DNS|DNS|DNS|DNS|-|
+|Khizr|[United Energy Pakistan ](https://uep.com.pk/)|DNS|DNS|DNS|DNS|-|
+|Majd|[GUPCO](http://www.gupco.net)|DNS|DNS|DNS|DNS|-|
+|Petro_DL|[UPES](https://www.upes.ac.in/)|DNS|DNS|DNS|DNS|-|
+|UniWien|[University of Vienna](https://www.univie.ac.at/)|DNS|DNS|DNS|DNS|-|
+|IntegrationSolutions|[University of Stavanger ](www.uis.no)|DNS|DNS|DNS|DNS|-|
+|FEDDO |[Feddo Integrated Services](http://www.feddogroup.com/)|DNS|DNS|DNS|DNS|-|
+|Knowledge|[Tatweer Petroleum ](www.tatweerpetroleum.com)|DNS|DNS|DNS|DNS|-|
+|Kgpian|[IIT KHARAGPUR](http://www.iitkgp.ac.in/)|DNS|DNS|DNS|DNS|-|
+|Streamlines|[Streamlines Oil and Gas](www.slsog.com)|DNS|DNS|DNS|DNS|-|
+|F5|[Factory5](https://factory5.ai/en/)|DNS|DNS|DNS|DNS|-|
+|Spatial Heroes|[Esri Indonesia](https://esriindonesia.co.id/)|DNS|DNS|DNS|DNS|-|
+|1-sparse|[CGG](cgg.com)|DNS|DNS|DNS|DNS|-|
+|Misurata |[Misurata University ](Misuratau.edu.ly)|DNS|DNS|DNS|DNS|-|
+|..|[Eniso](http://www.eniso.rnu.tn/)|DNS|DNS|DNS|DNS|-|
+|Tuwaiq Mountain|[Saudi Arabia](Aramco.com)|DNS|DNS|DNS|DNS|-|
+|Caliche|[Caliche Private Limited](www.calicheglobal.com)|DNS|DNS|DNS|DNS|-|
+|Field Engineering PSM|[Pertamina](www.pertamina.com)|DNS|DNS|DNS|DNS|-|
+|DA FOSSIL|[University of Oslo](uio.no)|DNS|DNS|DNS|DNS|-|
+|Geovartha|[Geovartha](https://geovartha.id/)|DNS|DNS|DNS|DNS|-|
+|EI|[University of Science and Technology of China](https://www.ustc.edu.cn/)|DNS|DNS|DNS|DNS|-|
+|OneShot|[Total Energies](https://www.totalenergies.fr/)|DNS|DNS|DNS|DNS|-|
+|AITEAM|[IRIT](https://www.irit.fr/)|DNS|DNS|DNS|DNS|-|
+|Resermine|[Resermine Inc](https://www.resermine.com/)|DNS|DNS|DNS|DNS|-|
+|Team Raze|[Federal University of Technology Akure](www.futa.edu.ng)|DNS|DNS|DNS|DNS|-|
+|UiS|[University of Stavanger](https://www.uis.no/en)|DNS|DNS|DNS|DNS|-|
+|CGG 1-Day Win |[CGG](cgg.com)|DNS|DNS|DNS|DNS|-|
+
+* DNS - Did Not Submit
